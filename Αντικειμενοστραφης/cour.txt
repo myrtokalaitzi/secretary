@@ -1,0 +1,6 @@
+Analysi_1, 8, 1, 1
+Fysiki, 8, 1, 2
+Analysi_2, 8, 1, 3
+Antikeimenostrafhs, 7, 1, 3
+Data Bases, 6, 1, 4
+AI, 7, 0, 5

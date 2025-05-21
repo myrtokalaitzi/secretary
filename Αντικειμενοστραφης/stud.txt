@@ -1,0 +1,7 @@
+Nikos A, 1112, 8, 2020, nikos@gmail.com, 6900000077
+Myrto K, 111503, 1, 2023, myrto@gmail.com, 6933333333
+Chris S, 111509, 2, 2023, chris@gmail.com, 6935555333
+Delimichael Panagiotis, 2000038, 6, 2021, panosdeli@gmail.com, 6923452749
+Pappadopoulou Eleni, 2100128, 4, 2022, elpap@yahoo.gr, 6973793488
+Angelopoulos Nikos, 2200002, 5, 2021, nikagg77@gmail.com, 6987522989
+Kalaitzi Myrto, 2200055, 3, 2022, mirtokal@gmail.com, 6963450387
